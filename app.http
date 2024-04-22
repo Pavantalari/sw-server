@@ -1,0 +1,17 @@
+POST http://localhost:5555/send_video_details
+Content-Type: application/json
+
+{
+  "video_url":"https://www.youtube.com/watch?app=desktop&v=VerzQqOteRk",
+  "video_title":"PUBG MOBILE ",
+  "view_count":"1.9M views",
+  "video_description":"PUBG MOBILE | The 6th Anniversary Version is available now!",
+  "video_uploded_date":"3 weeks ago",
+  "channel_logo":"https://yt3.ggpht.com/Pmi9-djvsdbLzvgQ9dkar6b-J060FmYBHYIM82f5xgc0haPsma6CNzt_9HqikhIMShJjgAXTPQ=s88-c-k-c0x00ffffff-no-rj",
+  "channel_subscribers":"2.93M subscribers",
+  "channel_name":"PUBG MOBILE",
+  "savedstatus":"false",
+  "category":"trending",
+  "thumbnail_url":"https://i.ytimg.com/vi/VerzQqOteRk/hqdefault.jpg"
+  
+}
